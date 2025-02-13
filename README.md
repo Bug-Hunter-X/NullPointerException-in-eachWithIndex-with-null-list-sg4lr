@@ -1,0 +1,1 @@
+This repository demonstrates a NullPointerException that can occur in Groovy when using the `eachWithIndex` method with a null list. The `eachWithIndex` method iterates over each element of a list along with its index.  If the list is null, a `NullPointerException` will be thrown. This example shows the bug and the solution to handle the null case.
